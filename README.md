@@ -22,7 +22,8 @@ Follow the following steps to make use of our "animefier".
   - The link doesn't have a unique name tied to it because the back-end is hosted out of the computer of one of the team members.
 2. Select an image that you want to "animefy" (using the "Browse" button) and select one of four "animefier" styles from the drop-down menu.
 3. Click the "Upload" button and wait. Since the models in question are large and the back-end doesn't have a lot of resources, it might take some time to receive your output image.
-4. The website will eventually return the output image. The image will not be permanently stored on our back-end and might be deleted at any moment. Because of this, we recommend that you save the image quickly.
+4. The website will eventually return the output image. The image will not be permanently stored on our back-end and might be deleted at any moment. Because of this, we recommend that you save the image quickly by right-clicking and selecting "Save Image As".
+5. Repeat Steps 1 through 4 for as many or few images as you want.
 
 ### References
 
