@@ -1,0 +1,22 @@
+/* Slideshow.css */
+.slideshow-container {
+    max-width: 100%;
+    position: relative;
+    height: 100%; /* Changed to 100% */
+  }
+  
+  .mySlides {
+    display: none;
+    height: 100%; /* Added height 100% */
+  }
+  
+  .mySlides.show {
+    display: block;
+  }
+  
+  .mySlides img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Added object-fit to maintain aspect ratio */
+  }
+  
