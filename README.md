@@ -2,19 +2,23 @@
 
 This is the repository for team "If it works, it works" and their submission to the CTP Cohort 9 hackathon.
 
-### Description of the Project
+### Description of the project
 
 The purpose of this project is to create a Generative Adverserial Network (GAN) that takes an input image and returns an (for lack of a better word) "animefied" output image, as well as an associated front end website to allow users to make use of the GAN without having to clone this repo and run things on the command line.
 
-### Technologies Used (placeholder)
+### Technologies used and sources referenced
 
 This project makes use of the following technologies:
 
 Front-end: React.js
-Back-end: Django
-Neural net models: PyTorch
+Back-end: Django (with REST framework), nginx
+Pre-trained GAN models: sourced from [this repo](https://github.com/znxlwm/pytorch-CartoonGAN)
+API endpoint: from [this fork](https://github.com/doby216/ctp9-hackathon-project) of the repo.
+Paper that we based some of our work on: See References.
 
-### How to Use the Product
+We attempted to train our own models using PyTorch, however the models generated did not live up to our expectations and we made the choice to use pre-trained models from another person's repo.
+
+### How to use the product
 
 Follow the following steps to make use of our "animefier".
 
