@@ -31,6 +31,8 @@ We attempted to train our own models using PyTorch, however the models generated
 
 Follow the following steps to make use of our "animefier".
 
+NOTE: The link displayed below no longer functions. This is because the app and server linked was hosted on the personal device of one of the team members and was taken offline after the hackathon judges inspected it and the hackathon concluded.
+
 1. Visit [this link](https://cartoonify-website.vercel.app/).
 2. Select an image that you want to "animefy" (using the "Browse" button) and select one of four "animefier" styles from the drop-down menu.
 3. Click the "Upload" button and wait. Since the models in question are large and the back-end doesn't have a lot of resources, it might take some time to receive your output image.
