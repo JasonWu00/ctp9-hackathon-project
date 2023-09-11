@@ -19,10 +19,10 @@ The purpose of this project is to create a Generative Adverserial Network (GAN) 
 
 This project makes use of the following technologies:
 
-Front-end: React.js, HTML/CSS
-Back-end: Django (with REST framework), nginx, Python
-Pre-trained GAN models: sourced from [this repo](https://github.com/znxlwm/pytorch-CartoonGAN)
-API endpoint: from [this fork](https://github.com/doby216/ctp9-hackathon-project) of the repo.
+Front-end: React.js, HTML/CSS   
+Back-end: Django (with REST framework), nginx, Python   
+Pre-trained GAN models: sourced from [this repo](https://github.com/znxlwm/pytorch-CartoonGAN)   
+API endpoint: from [this fork](https://github.com/doby216/ctp9-hackathon-project) of the repo.   
 Paper that we based some of our work on: See References.
 
 We attempted to train our own models using PyTorch, however the models generated did not live up to our expectations and we made the choice to use pre-trained models from another person's repo.
