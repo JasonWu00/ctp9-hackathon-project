@@ -6,9 +6,9 @@ This is the repository for team "If it works, it works" and their submission to 
 
 The following people contributed to this project:
 
-Yan Chen
-Owen Liang
-Fu Jun Pan
+Yan Chen   
+Owen Liang   
+Fu Jun Pan   
 Ze Hong (Jason) Wu
 
 ### Description of the project
